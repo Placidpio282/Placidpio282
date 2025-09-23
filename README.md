@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Python, Java, HTML, CSS, JavaScript**
+- 💬 Ask me about **Python, Java, HTML, CSS, JavaScript, React, Nodejs, Express, Mongodb, APIs**
 
 - 📫 How to reach me **placidpio2024@gmail.com**
 
