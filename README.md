@@ -5,7 +5,6 @@
 I'm a passionate and self-driven developer who loves building modern web applications with great UI/UX. With strong knowledge in both frontend and backend technologies, I enjoy turning ideas into real-world projects.
 
 ---
-<img align="right" alt="Coding" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 <p> <img src="https://komarev.com/ghpvc/?username=placidpio282&label=Profile%20views&color=0e75b6&style=flat" alt="placidpio282" /> </p>
 ## 💻 Tech Stack
 
