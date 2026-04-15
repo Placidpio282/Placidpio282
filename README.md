@@ -25,8 +25,8 @@ I'm a passionate and self-driven developer who loves building modern web applica
 ## 🛠️ My Projects
 
 - **🛒 QuickCart** – A -React-based eCommerce app with Redux Toolkit for state management and dynamic cart updates    
-- **🌐 SpicyDishes** –  A full-stack food ordering website with secure auth & Stripe payments
-- **💼 CMS** – A web app to store and manage contacts with login and CRUD features
+- **👨‍🍳 SpicyDishes** –  A full-stack food ordering website with secure auth & Stripe payments
+- **📞CMS** – A web app to store and manage contacts with login and CRUD features
 
 ---
 
