@@ -5,7 +5,7 @@
 I'm a passionate and self-driven developer who loves building modern web applications with great UI/UX. With strong knowledge in both frontend and backend technologies, I enjoy turning ideas into real-world projects.
 
 ---
-
+<p> <img src="https://komarev.com/ghpvc/?username=placidpio282&label=Profile%20views&color=0e75b6&style=flat" alt="placidpio282" /> </p>
 ## 💻 Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS, Redux, HTML, CSS, JavaScript  
