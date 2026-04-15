@@ -17,7 +17,7 @@ I'm a passionate and self-driven developer who loves building modern web applica
 
 ## 📚 Education & Learning Journey
 
-- 🎓 Graduated with a BE. CSE (IT Background) in 2020
+- 🎓 Graduated with a BE.CSE (IT Background) in 2020-24
 - 📘 Learned MERN stack development from **BigLearn Training Institute **  
 
 ---
